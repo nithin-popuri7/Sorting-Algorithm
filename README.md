@@ -61,8 +61,8 @@ print(value)
 ```
 
 ## Output:
-1)[github.logo]!Selection Sort.png
-2)[github.logo]!insertion sort.png
+![github.logo]Selection Sort.png
+![github.logo]!insertion sort.png
 
 
 ## Result:
